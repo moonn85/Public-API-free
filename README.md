@@ -3,8 +3,6 @@
 
 Một danh sách tập thể các API miễn phí để sử dụng trong phát triển phần mềm và web.
 
-Để biết thông tin về việc đóng góp cho dự án này, vui lòng xem [hướng dẫn đóng góp](.github/CONTRIBUTING.md).
-
 ## Mục Lục
 
 - [Danh Sách API Công Khai](#danh-sách-api-công-khai)
